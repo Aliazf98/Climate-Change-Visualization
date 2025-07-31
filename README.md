@@ -31,6 +31,8 @@ The project includes multiple data visualizations to present temperature trends:
 - Country Comparisons: Analyzing and visualizing temperature differences across countries.
 - City-level Trends: Understanding localized temperature changes in cities.
 
+---
+
 ## Getting Started
 
 To run the project:
