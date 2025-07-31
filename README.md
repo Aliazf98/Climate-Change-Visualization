@@ -1,6 +1,5 @@
 # Climate Change Analysis
 
-## Overview
 This project focuses on visualizing climate change data to understand the global, national, and city-level temperature trends over time. The datasets used in this analysis come from Kaggle's [Climate Change: Earth Surface Temperature Data](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data).
 
 ---
