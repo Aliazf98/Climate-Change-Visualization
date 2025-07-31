@@ -22,3 +22,20 @@ The following libraries are utilized for data manipulation, statistical analysis
 - **Matplotlib**: For generating plots.
 - **Seaborn**: For statistical data visualization.
 - **Scipy**: For statistical functions, including normal distribution.
+
+---
+
+## Visualizations
+The project includes multiple data visualizations to present temperature trends:
+- Global Trends: Visualizing the global temperature variations over time.
+- Country Comparisons: Analyzing and visualizing temperature differences across countries.
+- City-level Trends: Understanding localized temperature changes in cities.
+
+## Getting Started
+
+To run the project:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Aliazf98/Climate-Change-Visualization.git
+   cd Climate-Change-Visualization
