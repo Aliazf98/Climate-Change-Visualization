@@ -35,7 +35,7 @@ The project includes multiple data visualizations to present temperature trends:
 
 To run the project:
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/Aliazf98/Climate-Change-Visualization.git
    cd Climate-Change-Visualization
